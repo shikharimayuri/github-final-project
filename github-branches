@@ -1,0 +1,4 @@
+$ git branch -vv
+* bug-fix-revert 1336831 [origin/bug-fix-revert: ahead 1] Add pull request verification
+  bug-fix-typo   e145862 Fix typo in README
+  main           7f16bbe [origin/main: ahead 2] Add merge branches evidence
