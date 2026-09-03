@@ -67,8 +67,8 @@ curl https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-G
   "releases_url": "https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
   "deployments_url": "https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-09-03T18:29:22Z",
-  "updated_at": "2026-09-03T18:29:22Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "updated_at": "2026-09-03T19:21:13Z",
+  "pushed_at": "2026-09-03T19:20:46Z",
   "git_url": "git://github.com/shikharimayuri/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:shikharimayuri/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/shikharimayuri/mcino-Introduction-to-Git-and-GitHub.git",
@@ -77,7 +77,7 @@ curl https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-G
   "size": 18,
   "stargazers_count": 0,
   "watchers_count": 0,
-  "language": null,
+  "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": false,
@@ -195,7 +195,7 @@ curl https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-G
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 9583,
+    "forks_count": 9584,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -216,7 +216,7 @@ curl https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-G
 
     ],
     "visibility": "public",
-    "forks": 9583,
+    "forks": 9584,
     "open_issues": 48,
     "watchers": 16,
     "default_branch": "main"
@@ -306,7 +306,7 @@ curl https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-G
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 9583,
+    "forks_count": 9584,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -327,11 +327,11 @@ curl https://api.github.com/repos/shikharimayuri/mcino-Introduction-to-Git-and-G
 
     ],
     "visibility": "public",
-    "forks": 9583,
+    "forks": 9584,
     "open_issues": 48,
     "watchers": 16,
     "default_branch": "main"
   },
-  "network_count": 9583,
+  "network_count": 9584,
   "subscribers_count": 0
 }
